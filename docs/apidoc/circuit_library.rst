@@ -1,3 +1,5 @@
+.. include:: nlocal_example.rst
+
 .. _qiskit-circuit-library:
 
 .. automodule:: qiskit.circuit.library
